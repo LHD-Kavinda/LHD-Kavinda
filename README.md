@@ -8,6 +8,7 @@
 - 📫 How to reach me **kavindadeepana@gmail.com**
 
 - ⚡ Fun fact **I have an Eagle eye for catching any errors.😉**
+<br>
 
 ## 👀 Profile View Count
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lhd-kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="lhd-kavinda" /> </p>
