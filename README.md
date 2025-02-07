@@ -25,13 +25,15 @@
 <a href="https://fb.com/deepana kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepana kavinda" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lhd-kavinda&show_icons=true&locale=en&layout=compact" alt="lhd-kavinda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lhd-kavinda&show_icons=true&locale=en" alt="lhd-kavinda" /></p>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LHD-Kavinda&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LHD-Kavinda&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lhd-kavinda&show_icons=true&locale=en&layout=compact" alt="lhd-kavinda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lhd-kavinda&show_icons=true&locale=en" alt="lhd-kavinda" /></p>
+
