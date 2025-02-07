@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm L.H.Deepana Kavinda</h1>
-<h3 align="center">A passionate Software Developer & Quality Tester | Undergraduate</h3>
+<h3 align="center">A passionate Software Developer & Quality Tester | Undergraduate</h3><br>
 
 - 🔭 I’m currently working on **Project City Support**
 
@@ -8,10 +8,8 @@
 - 📫 How to reach me **kavindadeepana@gmail.com**
 
 - ⚡ Fun fact **I have an Eagle eye for catching any errors.😉**
-<br>
 
-## 👀 Profile View Count
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhd-kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="lhd-kavinda" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lhd-kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="lhd-kavinda" /> </p>
 <br>
 
 ## 🏆 GitHub Trophies
