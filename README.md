@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Software Developing and Testing**
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **kavindadeepana@gmail.com**
 
 - ⚡ Fun fact **I have an Eagle eye for catching any errors.😉**
