@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm L.H.Deepana Kavinda</h1>
 <h3 align="center">A passionate Software Developer & Quality Tester | Undergraduate</h3><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lhd-kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="lhd-kavinda" /> </p>
 
 - 🔭 I’m currently working on **Project City Support**
 
 - 🌱 I’m currently learning **Software Developing and Testing**
 
+- - 🌱 I’m currently studying at **The Open University of Sri Lanka**
+
 - 📫 How to reach me **kavindadeepana@gmail.com**
 
 - ⚡ Fun fact **I have an Eagle eye for catching any errors.😉**
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lhd-kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="lhd-kavinda" /> </p>
-<br>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lhd-kavinda" alt="lhd-kavinda" /></a> </p>
