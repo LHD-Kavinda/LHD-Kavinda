@@ -23,7 +23,7 @@
   </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width ="50px" hight="50px">
+  <img align="center" alt="Coding" width="500px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 
   
   </td>
@@ -38,7 +38,7 @@
 
 
 
-## 💻 Tech Stack
+## 💻 Languages and Tools
 <p align="center">    
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
@@ -70,7 +70,7 @@
 <a href="www.linkedin.com/in/deepana-kavinda" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="lhd-kavinda" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/22345746/lhd-kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lhd-kavinda" height="50" width="50" /></a>
 <a href="https://fb.com/deepana kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepana kavinda" height="50" width="50" /></a>
-<a href="kavindadeepana@gmail.com" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="deepana kavinda" height="50" width="50" /></a>
+<a href="kavindadeepana@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt="deepana kavinda" height="50" width="50" /></a>
 </p>
 <br>
 
