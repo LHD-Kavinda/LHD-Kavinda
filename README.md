@@ -8,7 +8,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="70%" align="left">
 
 - 🎯 I’m currently working on **Project City Support**
 
@@ -21,9 +21,9 @@
 - ⚡ Fun fact **I have an Eagle eye for catching any errors.😉**
 
   </td>
-<td width="50%" align="center">
+<td width="30%" align="center">
 
-  <img align="center" alt="Coding" width="500px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
+  <img align="center" alt="Coding" width="300px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   
   </td>
@@ -92,7 +92,7 @@
   
   </td>
 </tr>
-</table>
+</table><br>
 
 
 ## 🔝 Top Contributed Repo
