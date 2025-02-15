@@ -70,7 +70,7 @@
 <a href="www.linkedin.com/in/deepana-kavinda" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="lhd-kavinda" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/22345746/lhd-kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lhd-kavinda" height="50" width="50" /></a>
 <a href="https://fb.com/deepana kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepana kavinda" height="50" width="50" /></a>
-<a href="kavindadeepana@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt="deepana kavinda" height="50" width="50" /></a>
+<a href="mailto:kavindadeepana@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt="deepana kavinda" height="50" width="50" /></a>
 </p>
 <br>
 
