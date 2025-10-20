@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm L.H.Deepana Kavinda</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deepana Kavinda</h1>
 <p align="center">
 <h3 align="center">A passionate Software Developer & Quality Tester | Undergraduate</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lhd-kavinda&label=Profile%20views&color=0e75b6&style=flat" alt="lhd-kavinda" /> </p>
